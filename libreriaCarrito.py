@@ -1,5 +1,5 @@
 from libreriaArticulos import listaProd
-from libreriaCliente import listaUser
+from libreriaClientes import listaUser
 
 #Variable
 estadoApp = {
